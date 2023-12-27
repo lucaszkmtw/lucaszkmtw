@@ -1,6 +1,8 @@
+![CODE_SLEEP](https://github.com/lucaszkmtw/lucaszkmtw/assets/81581913/ca7dc6e6-daca-4f23-b49b-069791270909)
+
 <p align="center" width="300">
       <a>
-    ![CODE_SLEEP](https://github.com/lucaszkmtw/lucaszkmtw/assets/81581913/fb8199b2-45f6-4bb3-8b36-08b4a4e51bf2)
+  
 
 
   </a>
