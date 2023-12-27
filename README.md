@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center" width="300">
+   
+   <h3 align="center">¡Hey 👋! Soy Lucaszkmtw 👨🏻‍💻</h3>
+</p>
 
-<!--
-**lucaszkmtw/lucaszkmtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Soy <strong>Desarrollador C# y python</strong> con 5 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/lucas-noirat-33ba45184/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucaszkmtw" height="28px" width="28px" />
+  </a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
+
+
