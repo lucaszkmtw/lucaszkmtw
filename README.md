@@ -17,8 +17,7 @@
 - PYTHON(DJANGO Y DJANGO REST
 FRAMEWORK)
 - COBOL (GNU COBOL)
-- C# (.NET FRAMEWORK , .NET CORE
-6)
+- C# (.NET FRAMEWORK , .NET CORE 6)
 - OS : windows/ Linux.
 - Bash Scripting.
 - Angular FRAMEWORK.
