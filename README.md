@@ -5,10 +5,10 @@
    <a href="https://github.com/lucaszkmtw/lucaszkmtw/assets/81581913/ca7dc6e6-daca-4f23-b49b-069791270909" target="blank" style='margin-right:4px'>
     <img align="center" src="https://github.com/lucaszkmtw/lucaszkmtw/assets/81581913/ca7dc6e6-daca-4f23-b49b-069791270909" alt="lucaszkmtw" height="220px" width="700px" />
   </a>
-   <h3 align="center">¡Hey 👋! Soy Lucaszkmtw 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 🧑‍💻! Soy Lucaszkmtw 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador C# y python</strong> con 5 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador C# y python</strong> con 5 años experiencia.<br />¡Revisa mi contenido 🔗👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/lucas-noirat-33ba45184/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucaszkmtw" height="28px" width="28px" />
@@ -16,7 +16,7 @@
 
 </p>
 
-### 👋 Habilidades y Tecnologias
+### 📌 Habilidades y Tecnologias
 
 
 - PYTHON(DJANGO Y DJANGO REST
@@ -32,7 +32,7 @@ FRAMEWORK)
 - Software de control de Versiones GIT.
 - HTML/CSS/JAVASCRIPT.
 
-### 👋LENGUAJES
+###📌 LENGUAJES
 
 - ESPAÑOL: Lenguaje Nativo.
 - INGLES: C1.  https://ingles.ox.ar/cv/?id=38955332
