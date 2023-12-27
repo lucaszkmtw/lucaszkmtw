@@ -34,6 +34,6 @@ GIT.
 
 ### 👋LENGUAJES
 
-• ESPAÑOL: Lenguaje Nativo.
-• INGLES: C1. 
-• PORTUGUES: Basico.
+- ESPAÑOL: Lenguaje Nativo.
+- INGLES: C1.  https://ingles.ox.ar/cv/?id=38955332
+- PORTUGUES: Basico.
