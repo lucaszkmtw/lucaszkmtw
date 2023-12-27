@@ -25,7 +25,7 @@ FRAMEWORK)
 •Base de datos: PostgresSQL,
 ORACLE, SQL SERVER (Trigger De
 base de datos , Vistas, Funciones).
-•Curso Docker Udemy.
+• Docker.
 •Sofware de servidor Web, NGINX y
 IIS.
 •Software de control de Versiones
