@@ -1,6 +1,7 @@
 <p align="center" width="300">
       <a>
-    <img align="center" src="![CODE_SLEEP](https://github.com/lucaszkmtw/lucaszkmtw/assets/81581913/5d7f53a4-26a2-4b66-b8e6-5f9bee7e327f)" height="28px" width="28px" />
+    ![Uploading CODE_SLEEP.PNG…]()
+
   </a>
    <h3 align="center">¡Hey 👋! Soy Lucaszkmtw 👨🏻‍💻</h3>
 </p>
