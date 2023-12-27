@@ -14,23 +14,19 @@
 ### 👋 Habilidades y Tecnologias
 
 
-•PYTHON(DJANGO Y DJANGO REST
+-PYTHON(DJANGO Y DJANGO REST
 FRAMEWORK)
-•COBOL (GNU COBOL)
-•C# (.NET FRAMEWORK , .NET CORE
+-COBOL (GNU COBOL)
+-C# (.NET FRAMEWORK , .NET CORE
 6)
-•OS : windows/ Linux.
-•Bash Scripting.
-•Angular FRAMEWORK.
-•Base de datos: PostgresSQL,
-ORACLE, SQL SERVER (Trigger De
-base de datos , Vistas, Funciones).
-• Docker.
-•Sofware de servidor Web, NGINX y
-IIS.
-•Software de control de Versiones
-GIT.
-•HTML/CSS/JAVASCRIPT.
+-OS : windows/ Linux.
+-Bash Scripting.
+-Angular FRAMEWORK.
+-Base de datos: PostgresSQL, ORACLE, SQL SERVER (Trigger De base de datos , Vistas, Funciones).
+- Docker.
+- Sofware de servidor Web, NGINX y IIS.
+-Software de control de Versiones GIT.
+-HTML/CSS/JAVASCRIPT.
 
 ### 👋LENGUAJES
 
