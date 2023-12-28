@@ -35,5 +35,7 @@ FRAMEWORK)
 ### 📌 LENGUAJES
 
 - ESPAÑOL: Lenguaje Nativo.
-- INGLES: C1.  https://ingles.ox.ar/cv/?id=38955332
+- INGLES: C1.    <a href="https://ingles.ox.ar/cv/?id=38955332" target="blank" style='margin-right:4px'>
+   <p>link</p>
+  </a>
 - PORTUGUES: Basico.
